@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:01:48.027201
+#+DATE: 2015-08-30 20:01:49.156592
 #+TITLE: 佛說大迦葉問大寶積正法經
 #+PROPERTY: CBETA_ID T12n0352
 #+PROPERTY: ID KR6f0044
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 12, No. 352
 #+PROPERTY: VOL 12
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@SONG
 #+PROPERTY: LASTPB <pb:KR6f0044_T_000-0200c>¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6f0044_T_004-0211c> ¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 4
 ¶
-
- 《佛說大迦葉問大寶積正法經》¶
+《佛說大迦葉問大寶積正法經》¶
 卷第四¶
 ¶
 西天譯經三藏朝散大夫試鴻臚少卿¶
@@ -266,7 +265,7 @@
 　無彼清淨行
 　密行於虛誑¶
 　或彼為求名
-　要他行稱讚¶
+　惡他行稱讚¶
 　詐修於戒定
 　示衒行頭陀¶
 　內意不調伏
@@ -392,7 +391,7 @@
 　墜墮於不淨
 　名聞利養中¶
 　諸天及人民
-　而不生愛敬
+　而不生恭敬
 #+END_VERSE
 」
 <pb:KR6f0044_T_004-0214a>¶
