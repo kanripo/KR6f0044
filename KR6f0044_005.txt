@@ -1,19 +1,18 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:01:48.056061
+#+DATE: 2015-08-30 20:01:50.229352
 #+TITLE: 佛說大迦葉問大寶積正法經
 #+PROPERTY: CBETA_ID T12n0352
 #+PROPERTY: ID KR6f0044
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 12, No. 352
 #+PROPERTY: VOL 12
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6f0044_T_000-0200c>¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6f0044_T_005-0214c> ¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 5
 ¶
 ¶
-
- 《佛說大迦葉問大寶積正法經》卷¶
+《佛說大迦葉問大寶積正法經》卷¶
 第五¶
 ¶
 西天譯經三藏朝散大夫試鴻臚少卿¶
@@ -54,7 +53,7 @@
 何。彼等苾芻而即答言。世尊說法我昔未聞。¶
 今既聞已難解難入。心生驚怖不可信學。是¶
 以樂歸林野安處禪定而取安樂。化苾芻言。¶
-尊者。世尊說法而為難解。心生驚怖不信不¶
+尊著。世尊說法而為難解。心生驚怖不信不¶
 學不行。而歸林野以定為涅槃。是彼所執汝¶
 等不知。尊者。沙門之法非合論詰。今問尊¶
 者。云何名涅槃法。若於自身得涅槃者則得¶

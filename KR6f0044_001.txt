@@ -1,20 +1,19 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:01:47.926784
+#+DATE: 2015-08-30 20:01:50.122974
 #+TITLE: 佛說大迦葉問大寶積正法經
 #+PROPERTY: CBETA_ID T12n0352
 #+PROPERTY: ID KR6f0044
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 12, No. 352
 #+PROPERTY: VOL 12
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6f0044_T_000-0200c>¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6f0044_T_001-0200c> ¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.352[Nos.310(43),350,351]¶
-
- 《佛說大迦葉問大寶積正法經》¶
+No. 352 [Nos. 310(43), 350, 351]¶
+《佛說大迦葉問大寶積正法經》¶
 卷第一¶
 ¶
 西天譯經三藏朝散大夫試鴻臚少卿¶
@@ -563,7 +562,7 @@ No.352[Nos.310(43),350,351]¶
 　投誠恭敬禮¶
 　智者行此四
 　能斷無明地¶
-　一切諸佛心
+　一切諸佛
 　依此得菩提
 #+END_VERSE
 」¶
