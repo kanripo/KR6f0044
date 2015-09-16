@@ -1,19 +1,18 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:01:47.959346
+#+DATE: 2015-08-30 20:01:48.722340
 #+TITLE: 佛說大迦葉問大寶積正法經
 #+PROPERTY: CBETA_ID T12n0352
 #+PROPERTY: ID KR6f0044
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 12, No. 352
 #+PROPERTY: VOL 12
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@YUAN
 #+PROPERTY: LASTPB <pb:KR6f0044_T_000-0200c>¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6f0044_T_002-0204b> ¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 2
 ¶
 ¶
-
- 《佛說大迦葉問大寶積正法經》卷¶
+《佛說大迦葉問大寶積正法經》卷¶
 第二¶
 ¶
 西天譯經三藏朝散大夫試鴻臚少卿¶
@@ -597,7 +596,7 @@
 　沙門婆羅門
 　愚見亦如是¶
 　聞彼諸法空
-　心生於怖畏¶
+　心生恐怖畏¶
 　若空破壞我
 　依何生受用
 #+END_VERSE
@@ -622,7 +621,7 @@
 
 佛告迦葉。譬如幻士變作幻化。是彼幻化能¶
 變幻士。迦葉。相應行比丘亦復如是。而自發¶
-意。如是說一切皆空。彼虛空無實亦能如是¶
+意。如是說一切法空。彼虛空無實亦能如是¶
 說。我今於此而說頌曰。¶
 
 #+BEGIN_VERSE
